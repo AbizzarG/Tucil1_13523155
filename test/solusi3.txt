@@ -1,0 +1,9 @@
+A C C D D 
+A A C E D 
+A A A E E 
+B F F G G 
+B B F H G 
+B B B H H 
+
+Execution time: 109 ms
+Iterations: 17
